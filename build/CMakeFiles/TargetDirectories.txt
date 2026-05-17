@@ -1,0 +1,3 @@
+D:/Code/image-viewer-in-C/build/CMakeFiles/iv.dir
+D:/Code/image-viewer-in-C/build/CMakeFiles/edit_cache.dir
+D:/Code/image-viewer-in-C/build/CMakeFiles/rebuild_cache.dir
